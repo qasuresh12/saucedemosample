@@ -66,5 +66,4 @@ public class SauceDemoTest extends BasePage{
 		logger.log(LogStatus.INFO, "Clicked on the Product by given Id");
 		logger.log(LogStatus.PASS, "successfully clicked on the Product by Id");
 	}
-	
 }
